@@ -5,7 +5,7 @@ namespace HelloWorld
 {
     class HelloWorld
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Hello, World2");
             Console.WriteLine("Hello, again fool!");
