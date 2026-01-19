@@ -8,6 +8,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World2");
+            Console.WriteLine("Hello, again fool!");
             Console.ReadLine();
         }//end main
     } // end class
