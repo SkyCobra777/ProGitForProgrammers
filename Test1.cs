@@ -9,6 +9,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello, World2");
             Console.WriteLine("Hello, again fool!");
+            Console.WriteLine("Press Enter to exit...");
             Console.ReadLine();
         }//end main
     } // end class
